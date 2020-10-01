@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\TrabajosDW2020"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TrabajosDW"
+	}
+}
